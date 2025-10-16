@@ -1,0 +1,9 @@
+# Dépendances principales
+python-telegram-bot==22.5
+httpx==0.28.1
+
+# Dépendances pour la création d'exécutable
+pyinstaller==6.16.0
+
+# Note: tkinter est inclus avec Python par défaut
+# Note: asyncio est inclus avec Python par défaut
