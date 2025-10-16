@@ -136,8 +136,12 @@ bootsender.db
 *.sqlite
 
 # Fichiers de configuration sensibles
+config.py
 config_local.py
 secrets.py
+
+# Garder le template de configuration
+!config.exemple.py
 
 # Fichiers temporaires
 *.tmp
